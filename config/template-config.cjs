@@ -1,7 +1,7 @@
 /* eslint-disable */
 const TEMPLATE_CONFIG = [
   {
-    id: '0001',
+    id: 'fWL7frx8PMdtXxb1RPNoARsP6Zi8wEcc8eP9B6wzA8c',
     title: '亲爱的, 早上好',
     desc: `
       **{{date.DATA}}**
@@ -36,7 +36,7 @@ const TEMPLATE_CONFIG = [
     `
   },
   {
-    id: '0002',
+    id: 'onBIn6msn5XCyOnRG5wa8HC93MlY',
     title: '推送完成提醒',
     desc: `
       服务器信息：{{post_time_zone.DATA}} {{post_time.DATA}}
