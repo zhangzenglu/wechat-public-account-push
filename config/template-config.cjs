@@ -18,6 +18,7 @@ const TEMPLATE_CONFIG = [
 
 {{moment_copyrighting.DATA}} 
 {{poetry_title.DATA}} {{poetry_content.DATA}}
+},
   {
     id: 'YWUouMkfWQF1rDw8BPo7lFBxtPXGDZ3c2gjPODoZYZY 	',
     title: '推送完成提醒',
