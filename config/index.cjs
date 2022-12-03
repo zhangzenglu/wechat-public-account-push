@@ -90,33 +90,7 @@ customizedDateList: [
       id: 'onBIn6msn5XCyOnRG5wa8HC93MlY',
     }
   ],
-  USERS: [
-    {
-      // 想要发送的人的名字
-      name: '张先生',
-      // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'onBIn6msn5XCyOnRG5wa8HC93MlY',
-      // 使用微信测试号：你想对他发送的模板消息的模板ID
-      province: '黑龙江',
-  city: '牡丹江',
-      useTemplateId: 'zivzxAhGPZojx7RjMsvQkp6NM5jwdzEQM1B7JT8ZPV8',
-      // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
-      horoscopeDate: '11-16',
-      festivals: [
-        // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
-        {
-          type: '*生日', name: '宝贝', year: '2001', date: '08-05',
-        },
-         {
-          type: '*生日', name: '狗子', year: '2001', date: '10-02',
-        },
-      ],
-customizedDateList: [
-        // 相识的日子
-        { keyword: 'love_day', date: '2021-11-06' },
-      ],
-    },
-  ],
+ 
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
