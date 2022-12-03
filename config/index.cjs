@@ -22,8 +22,8 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'onBIn6msn5XCyOnRG5wa8HC93MlY',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      PROVINCE: '江苏',
-  CITY: '南京',
+      province: '江苏',
+  city: '南京',
       useTemplateId: 'K4lVST1Rxo0EevlcRQ3psJ9hrcFo_ETZS6Ts1AISgfg',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '09-21',
