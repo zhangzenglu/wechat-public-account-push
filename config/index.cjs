@@ -20,7 +20,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '宝宝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'onBIn6pLNVryXQEhII3EUZHa-3sM',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       province: '江苏',
   city: '南京',
@@ -45,7 +45,7 @@ customizedDateList: [
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'YWUouMkfWQF1rDw8BPo7lFBxtPXGDZ3c2gjPODoZYZ',
+  CALLBACK_TEMPLATE_ID: 'YWUouMkfWQF1rDw8BPo7lFBxtPXGDZ3c2gjPODoZYZY',
 
   CALLBACK_USERS: [
     {
@@ -59,7 +59,7 @@ USERS: [
       // 想要发送的人的名字
       name: '罗怡姐',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'onBIn6vJGNk564uk36J7rhSQv1J',
+      id: 'onBIn6vJGNk564uk36J7rhSQv1JI',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       province: '海南',
   city: '海口',
