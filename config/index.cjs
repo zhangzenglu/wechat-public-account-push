@@ -59,7 +59,7 @@ USERS: [
       // 想要发送的人的名字
       name: '罗怡姐',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'onBIn6vJGNk564uk36J7rhSQv1JI',
+      id: 'onBIn6vJGNk564uk36J7rhSQv1J',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       province: '海南',
   city: '海口',
@@ -98,7 +98,7 @@ customizedDateList: [
       id: 'onBIn6msn5XCyOnRG5wa8HC93MlY',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       province: '黑龙江',
-  city: '穆棱',
+  city: '牡丹江',
       useTemplateId: 'zivzxAhGPZojx7RjMsvQkp6NM5jwdzEQM1B7JT8ZPV8',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '11-16',
