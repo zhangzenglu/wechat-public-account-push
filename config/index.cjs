@@ -20,7 +20,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '娜娜公主',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'onBIn6pLNVryXQEhII3EUZHa-3sM',
+      id: 'onBIn6pLNVryXQEhII3EUZHa-3s',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       province: '江苏',
   city: '南京',
@@ -45,7 +45,7 @@ customizedDateList: [
 {
       name: '罗怡公主',
       id: 'onBIn6vJGNk564uk36J7rhSQv1JI',
-      useTemplateId: 's5wy_wKBgknxXs4qkj-BicFuwCZ-tf6TtbcV25lmMaQ',
+      useTemplateId: '1fc10-haOJExnlv-1e90bgpQ3pmqR3S0N_qIf-z_kIU',
       province: '海南',
       city: '海口',
       horoscopeDate: '04-19',
@@ -63,7 +63,7 @@ customizedDateList: [
     },
     {
       name: '海狗国王',
-      id: 'onBIn6msn5XCyOnRG5wa8HC93MlY',
+      id: 'onBIn6msn5XCyOnRG5wa8HC93Ml',
       useTemplateId: 'nwdbVZOUTztL6oCGYh3YJjLoHxPFcvMSQGpks9qDSI4',
       province: '黑龙江',
       city: '牡丹江',
@@ -82,7 +82,7 @@ customizedDateList: [
     },
     {
       name: '洋子王子',
-      id: 'onBIn6q0mO4ydWRu6xiKWZO194N4',
+      id: 'onBIn6q0mO4ydWRu6xiKWZO194N',
       useTemplateId: 'zivzxAhGPZojx7RjMsvQkp6NM5jwdzEQM1B7JT8ZPV8',
       province: '黑龙江',
       city: '佳木斯',
