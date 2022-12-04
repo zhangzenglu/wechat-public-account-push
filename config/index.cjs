@@ -20,7 +20,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '宝宝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'onBIn6pLNVryXQEhII3EUZHa-3sM',
+      id: 'onBIn6pLNVryXQEhII3EUZHa-3s',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       province: '江苏',
   city: '南京',
@@ -41,8 +41,23 @@ customizedDateList: [
         { keyword: 'love_day', date: '2021-11-06' },
       ],
     },
-  ],
-
+  
+{
+      name: '罗怡',
+      id: 'onBIn6msn5XCyOnRG5wa8HC93MlY',
+      useTemplateId: 's5wy_wKBgknxXs4qkj-BicFuwCZ-tf6TtbcV25lmMaQ',
+      province: '海南',
+      city: '海口',
+      horoscopeDate: '04-19',
+      horoscopeDateType: '',
+      openUrl: 'https://wangxinleo.cn',
+      festivals: [{
+          type: '*生日', name: '罗怡', year: '1998', date: '08-05',
+        },],
+      customizedDateList: [{ keyword: 'love_day', date: '2021-03-30' },],
+      courseSchedule: null
+    },
+    ],
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
   CALLBACK_TEMPLATE_ID: 'YWUouMkfWQF1rDw8BPo7lFBxtPXGDZ3c2gjPODoZYZY',
