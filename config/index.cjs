@@ -20,7 +20,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '宝宝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'onBIn6pLNVryXQEhII3EUZHa-3s',
+      id: 'onBIn6pLNVryXQEhII3EUZHa-3sM',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       province: '江苏',
   city: '南京',
@@ -44,7 +44,7 @@ customizedDateList: [
   
 {
       name: '罗怡',
-      id: 'onBIn6msn5XCyOnRG5wa8HC93MlY',
+      id: 'onBIn6vJGNk564uk36J7rhSQv1JI',
       useTemplateId: 's5wy_wKBgknxXs4qkj-BicFuwCZ-tf6TtbcV25lmMaQ',
       province: '海南',
       city: '海口',
@@ -57,6 +57,36 @@ customizedDateList: [
       customizedDateList: [{ keyword: 'love_day', date: '2021-03-30' },],
       courseSchedule: null
     },
+    {
+      name: '张先生',
+      id: 'onBIn6msn5XCyOnRG5wa8HC93MlY',
+      useTemplateId: 'nwdbVZOUTztL6oCGYh3YJjLoHxPFcvMSQGpks9qDSI4',
+      province: '黑龙江',
+      city: '牡丹江',
+      horoscopeDate: '11-16',
+      horoscopeDateType: '',
+      openUrl: 'https://wangxinleo.cn',
+      festivals: [{
+          type: '*生日', name: '张先生', year: '2001', date: '10-02'
+        },],
+      customizedDateList: [{ keyword: 'love_day', date: '2001-11-16'},],
+      courseSchedule: null
+    },
+    {
+      name: '于书记',
+      id: 'onBIn6q0mO4ydWRu6xiKWZO194N4',
+      useTemplateId: 'zivzxAhGPZojx7RjMsvQkp6NM5jwdzEQM1B7JT8ZPV8',
+      province: '黑龙江',
+      city: '佳木斯',
+      horoscopeDate: '02-07',
+      horoscopeDateType: '',
+      openUrl: 'https://wangxinleo.cn',
+      festivals: [{
+          type: '*生日', name: '于书记', year: '2002', date: '12-23',
+        },],
+      customizedDateList: [{ keyword: 'love_day', date: '2020-10-10' },],
+      courseSchedule: null
+    }
     ],
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
