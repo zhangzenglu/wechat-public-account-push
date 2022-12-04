@@ -64,7 +64,7 @@ customizedDateList: [
     {
       name: '海狗国王',
       id: 'onBIn6msn5XCyOnRG5wa8HC93MlY',
-      useTemplateId: 'U-pdfaHYb1iud1AxklDPDeQKiwjSEHVournfygxeZdY',
+      useTemplateId: 'ZJyxf-zXLD57wlUw3km3quvDR0UCcJeJaQlPTrlqpZo',
       province: '黑龙江',
       city: '牡丹江',
       horoscopeDate: '11-16',
