@@ -45,7 +45,7 @@ customizedDateList: [
 {
       name: '罗怡公主',
       id: 'onBIn6vJGNk564uk36J7rhSQv1JI',
-      useTemplateId: 'J-vHXXmFXPq5FMdfYCzefMhBicI3sIQUcWFOk_3PN_g',
+      useTemplateId: '1fc10-haOJExnlv-1e90bgpQ3pmqR3S0N_qIf-z_kIU',
       province: '海南',
       city: '海口',
       horoscopeDate: '04-19',
@@ -64,7 +64,7 @@ customizedDateList: [
     {
       name: '海狗国王',
       id: 'onBIn6msn5XCyOnRG5wa8HC93MlY',
-      useTemplateId: 'J-vHXXmFXPq5FMdfYCzefMhBicI3sIQUcWFOk_3PN_g',
+      useTemplateId: '1fc10-haOJExnlv-1e90bgpQ3pmqR3S0N_qIf-z_kIU',
       province: '黑龙江',
       city: '牡丹江',
       horoscopeDate: '11-16',
@@ -83,7 +83,7 @@ customizedDateList: [
     {
       name: '洋子王子',
       id: 'onBIn6q0mO4ydWRu6xiKWZO194N4',
-      useTemplateId: 'J-vHXXmFXPq5FMdfYCzefMhBicI3sIQUcWFOk_3PN_g',
+      useTemplateId: '1fc10-haOJExnlv-1e90bgpQ3pmqR3S0N_qIf-z_kIU',
       province: '黑龙江',
       city: '佳木斯',
       horoscopeDate: '02-07',
